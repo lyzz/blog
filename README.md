@@ -1,12 +1,8 @@
 # blog
 
-## 今天是个好天气
+>[python](D:\github\learn-python.io)
 
-- 我打球
-- 我洗澡
+>[notes](D:\github\notes)
+    
+  
 
-
-### 工作
-
--验bug
--发版本
