@@ -1,5 +1,5 @@
-# blog
+# blog[我的主页](https://lyzz.github.io)
 
-## [python](D:\github\learn-python.io)
+ ●[python](https://github.com/lyzz/learn-python.io.git)
 
-## [notes](D:\github\notes)
+ ●[notes](https://github.com/lyzz/notes.git)
