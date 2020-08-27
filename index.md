@@ -7,4 +7,4 @@
 
 ## notes
 
-[note](https://lyzz.github.io/note/README.html)
+[note](https://lyzz.github.io/notes/index.html)
