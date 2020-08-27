@@ -3,3 +3,8 @@
  >●[python](https://github.com/lyzz/learn-python.io.git)
 
  >●[notes](https://github.com/lyzz/notes.git)
+
+
+## notes
+
+[note](https://lyzz.github.io/note/README.html)
